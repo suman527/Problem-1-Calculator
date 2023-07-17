@@ -1,0 +1,21 @@
+.calculator {
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  input, select, button {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 24px;
+  }
+  
